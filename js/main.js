@@ -1,4 +1,4 @@
-// Geetanjali Salon — main.js
+// Aurea Salon — main.js
 
 /* ── HEADER SCROLL ── */
 const header = document.getElementById('site-header');
