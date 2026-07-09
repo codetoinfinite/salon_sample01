@@ -238,7 +238,7 @@ h1,h2,h3,h4 { font-family: var(--h-font); color: var(--dark); line-height: 1.2; 
 /* ── DESIGNED FOR CALM ── */
 .calm-section {
   min-height: 75vh;
-  background: url('https://geetanjalisalon.com/wp-content/uploads/2023/10/interior-image-inside.jpg') center/cover no-repeat fixed;
+  background: url('images/interior.jpg') center/cover no-repeat fixed;
   position: relative;
   display: flex;
   align-items: center;
